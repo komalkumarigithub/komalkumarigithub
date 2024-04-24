@@ -1,5 +1,6 @@
 
 <center><h1 align="center">Sup, I'm komal kumari</h1>
+  
 - 👋 Hi, I’m @komalkumarigithub 
 - 👀 I’m interested coding 
 - 🌱 I’m currently learning frontend developer 
